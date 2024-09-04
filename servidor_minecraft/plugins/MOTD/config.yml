@@ -1,0 +1,25 @@
+# This is the server motd.
+Server-MOTD:
+  Line-1: '&6&kahre&4&l&m----[&r&6 Servidor de &r&fSantiago y Simón &4&l&m]----&r&6&kahre'
+  Line-2: '        &4&kahre1&r&4&l Her&r&4&ko&r&4&lbrine &r&4&l&mT&r&4&le &r&4&l&mO&r&4&lbs&r&4&ke&r&4&lrva
+    &r&4&kahre1'
+
+# The motd of the player when they join in.
+JoinGame-MOTD:
+  Enabled: false
+  # Check forum for placeholders.
+  # Supported for PlaceholderAPI placeholders.
+  Messages:
+  - '&eWelcome to the server.'
+
+# Server icon.
+Custom-Server-Icon:
+  # Set to true will load image from motd folder.
+  Enabled: false
+  # Make sure it's 64 x 64 pixels with png format.
+  Image: server-icon.png
+
+# The maximum players of the server.
+Server-Maximum-Players:
+  Modify: true
+  Maximum-Players: 2

@@ -1,0 +1,16 @@
+Groups:
+  admin:
+    Permission: nte.admin
+    Prefix: '&4&kah&r&6&l[Admin]&r&4&kah &r&6'
+    Suffix: ''
+    SortPriority: -1
+  miembros:
+    Permission: nte.miembros
+    Prefix: '&4&kah&r&6&l[&r&f&lNoob&r&6&l]&r&4&kah &f'
+    Suffix: ''
+    SortPriority: -1
+  default:
+    Permission: nte.default
+    Prefix: '&r&4&l[&r&f&lVagabundo&r&4&l]&r &f'
+    Suffix: ''
+    SortPriority: -1

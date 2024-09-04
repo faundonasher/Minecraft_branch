@@ -1,0 +1,63 @@
+[Tue Sep 03 23:35:04 UTC 2024] badbalta: /gamemode creative
+[Wed Sep 04 00:58:47 UTC 2024] badbalta: /lp listgroups
+[Wed Sep 04 00:59:00 UTC 2024] badbalta: /nte group list
+[Wed Sep 04 00:59:13 UTC 2024] badbalta: /nte group remove Admin
+[Wed Sep 04 00:59:17 UTC 2024] badbalta: /nte group remove Moderator
+[Wed Sep 04 00:59:21 UTC 2024] badbalta: /nte group list
+[Wed Sep 04 01:01:03 UTC 2024] badbalta: /nte group list
+[Wed Sep 04 01:02:04 UTC 2024] badbalta: /lp creategroup admin
+[Wed Sep 04 01:02:09 UTC 2024] badbalta: /lp creategroup default
+[Wed Sep 04 01:02:15 UTC 2024] badbalta: /lp creategroup miembros
+[Wed Sep 04 01:02:39 UTC 2024] badbalta: /lp group admin permission set nte.admin
+[Wed Sep 04 01:02:51 UTC 2024] badbalta: /lp group miembros permission set nte.miembros
+[Wed Sep 04 01:03:02 UTC 2024] badbalta: /lp group default permission set nte.default
+[Wed Sep 04 01:03:16 UTC 2024] badbalta: /lp user badbalta parent set admin
+[Wed Sep 04 01:03:27 UTC 2024] badbalta: /lp user badbalta parent set miembros
+[Wed Sep 04 01:03:32 UTC 2024] badbalta: /lp user badbalta parent set default
+[Wed Sep 04 01:03:40 UTC 2024] badbalta: /lp user badbalta parent set admin
+[Wed Sep 04 01:03:54 UTC 2024] badbalta: /lp user badbalta parent set default
+[Wed Sep 04 01:04:00 UTC 2024] badbalta: /lp user badbalta parent set miembros
+[Wed Sep 04 01:04:09 UTC 2024] badbalta: /lp user badbalta parent set admin
+[Wed Sep 04 01:05:37 UTC 2024] badbalta: /reloa
+[Wed Sep 04 01:05:39 UTC 2024] badbalta: /reload
+[Wed Sep 04 01:05:52 UTC 2024] badbalta: /lp user badbalta parent set miembros
+[Wed Sep 04 01:06:02 UTC 2024] badbalta: /lp user badbalta parent set default
+[Wed Sep 04 01:06:52 UTC 2024] badbalta: /lp user badbalta parent set miembros
+[Wed Sep 04 01:06:59 UTC 2024] badbalta: /lp user badbalta parent set admin
+[Wed Sep 04 01:17:41 UTC 2024] badbalta: /lp user badbalta parent set admin
+[Wed Sep 04 01:17:44 UTC 2024] badbalta: /lp user badbalta parent set default
+[Wed Sep 04 01:17:48 UTC 2024] badbalta: /lp user badbalta parent set miembros
+[Wed Sep 04 01:17:51 UTC 2024] badbalta: /lp user badbalta parent set default
+[Wed Sep 04 01:17:54 UTC 2024] badbalta: /lp user badbalta parent set default
+[Wed Sep 04 01:17:56 UTC 2024] badbalta: /lp user badbalta parent set miembros
+[Wed Sep 04 01:18:03 UTC 2024] badbalta: /lp user badbalta parent set default
+[Wed Sep 04 01:18:09 UTC 2024] badbalta: /lp user badbalta parent set admin
+[Wed Sep 04 01:22:45 UTC 2024] badbalta: /pl
+[Wed Sep 04 01:22:57 UTC 2024] badbalta: /axkills
+[Wed Sep 04 01:23:02 UTC 2024] badbalta: /axkills help
+[Wed Sep 04 01:45:21 UTC 2024] badbalta: /axkills
+[Wed Sep 04 01:45:26 UTC 2024] badbalta: /kill
+[Wed Sep 04 01:50:02 UTC 2024] badbalta: /gamemode spectator
+[Wed Sep 04 01:50:25 UTC 2024] badbalta: /gamemode survival
+[Wed Sep 04 01:50:29 UTC 2024] badbalta: /gamemode spectator
+[Wed Sep 04 01:50:32 UTC 2024] badbalta: /gamemode creative
+[Wed Sep 04 01:57:01 UTC 2024] badbalta: /locate structure minecraft:ocean_ruin_warm
+[Wed Sep 04 01:57:19 UTC 2024] badbalta: /tp @s 1040 ~ -2224
+[Wed Sep 04 01:57:47 UTC 2024] badbalta: /gamemode spectator
+[Wed Sep 04 01:57:50 UTC 2024] badbalta: /gamemode spectator
+[Wed Sep 04 01:59:22 UTC 2024] badbalta: /gamemode creative
+[Wed Sep 04 01:59:24 UTC 2024] badbalta: /gamemode survival
+[Wed Sep 04 01:59:28 UTC 2024] badbalta: /gamemode spectator
+[Wed Sep 04 02:01:04 UTC 2024] badbalta: /locate structure minecraft:ancient_city
+[Wed Sep 04 02:01:07 UTC 2024] badbalta: /tp @s 944 ~ -2688
+[Wed Sep 04 02:01:30 UTC 2024] badbalta: /gamemode survival
+[Wed Sep 04 02:03:12 UTC 2024] badbalta: /gamemode spectator
+[Wed Sep 04 02:03:15 UTC 2024] badbalta: /gamemode creative
+[Wed Sep 04 03:48:59 UTC 2024] badbalta: /tp badbalta 0 0 0
+[Wed Sep 04 03:49:04 UTC 2024] badbalta: /tp badbalta 0 40 0
+[Wed Sep 04 03:49:08 UTC 2024] badbalta: /tp badbalta 0 60 0
+[Wed Sep 04 03:49:13 UTC 2024] badbalta: /tp badbalta 0 110 0
+[Wed Sep 04 03:49:25 UTC 2024] badbalta: /tp badbalta 0 90 0
+[Wed Sep 04 03:49:30 UTC 2024] badbalta: /tp badbalta 0 70 0
+[Wed Sep 04 03:49:34 UTC 2024] badbalta: /tp badbalta 0 70 0
+[Wed Sep 04 05:17:18 UTC 2024] badbalta: /seed
